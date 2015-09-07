@@ -11,6 +11,8 @@ A recent question on useful resources for learning typography had me digging thr
 
 [http://practicaltypography.com/](http://practicaltypography.com/)
 
+![Butterick's Practical Typography](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/buttericks_practical_typography.png "Butterick's Practical Typography"){: .blog-image }
+
 An excellent resource by _Matthew Butterick_ ([https://twitter.com/mbutterick](https://twitter.com/mbutterick)) who also created the legal specific [http://typographyforlawyers.com/](http://typographyforlawyers.com/) resource. **Practical Typography** offers an excellent overview of typographic theory and is an excellent starting point for learning more about this area.
 
 ### The Elements of Typographic Style Applied to the Web

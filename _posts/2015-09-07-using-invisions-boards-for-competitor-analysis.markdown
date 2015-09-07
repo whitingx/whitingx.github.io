@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Using InVisions 'Boards' for Competitor Analysis
 layout: post
 tags: [tools, InVision]

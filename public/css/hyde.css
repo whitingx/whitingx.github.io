@@ -257,7 +257,7 @@ a.sidebar-nav-item:focus {
  */
  
 .blog-image {
-  width: 800px;
+  max-width: 800px;
 }
 
 .blog-image-caption {

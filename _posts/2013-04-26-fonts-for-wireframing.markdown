@@ -2,7 +2,7 @@
 published: true
 title: Fonts for Wireframing
 layout: post
-tags: [typography
+tags: [typography]
 categories: [typography]
 ---
 With tools like [Balsamiq](https://balsamiq.com/) being useful for lo-fi wireframing there is also the consideration of how you would like your fonts to display. [Lorem Ipsum](http://www.lipsum.com/) can be useful for test display of text but can also offer a layer of distraction to clients.

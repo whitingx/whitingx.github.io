@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Demonstrating Animations & Transitions in InVision
 layout: post
 tags: [tools, InVision]

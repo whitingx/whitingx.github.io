@@ -18,7 +18,7 @@ Initially, use LiceCap ([how to record with LiceCap demo here](http://www.cockos
 
 ![Example animation captured using LiceCap](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/notification-anim-demo.gif "Example animation captured using LiceCap")
 
-###### _Example animation captured using LiceCap_
+Example animation captured using LiceCap{: .blog-image-caption }
 
 Keep this image simple, if you have multiple animations, record them separately and upload as individual screens to avoid confusion around comments.
 
@@ -28,6 +28,6 @@ Once you have captured the animated image, simply upload to InVision as normal a
 
 ![Animation uploaded to InVision with an added comment](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/invision-anim-comment-2.png "[Animation uploaded to InVision with an added comment"){: .blog-image }
 
-###### _Animation uploaded to InVision with an added comment_
+Animation uploaded to InVision with an added comment{: .blog-image-caption }
 
 This allows a distributed team to make use of the features contained in InVision while allowing relevant animations and transitions to be viewed and commented on.

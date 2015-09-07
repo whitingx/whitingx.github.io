@@ -259,4 +259,8 @@ a.sidebar-nav-item:focus {
 .blog-image {
   width: 800px;
 }
- 
+
+.blog-image-caption {
+  font-size: .8em;
+  margin: -10px 0 20px 5px;
+}

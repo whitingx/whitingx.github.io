@@ -19,6 +19,8 @@ An excellent resource by _Matthew Butterick_ ([https://twitter.com/mbutterick](h
 
 [http://webtypography.net/toc/](http://webtypography.net/toc/)
 
+![The Elements of Typographic Style Applied to the Web](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/elements-of-typographic-style-web.png "The Elements of Typographic Style Applied to the Web"){: .blog-image }
+
 A web–specific version of the excellent **Elements of Typographic Style** book maintained by _Richard Rutter_. Very useful overview and intro to the more in–depth and non web–specific original.
 
 ### Typekit Practice

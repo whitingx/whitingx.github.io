@@ -16,7 +16,7 @@ Firstly, an additional piece of software is required to capture the animations a
 
 Initially, use LiceCap ([how to record with LiceCap demo here](http://www.cockos.com/licecap/how_to_licecap.gif) to capture an image showing the animation you would like to add to InVision for discussion.
 
-![Example animation captured using LiceCap](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/notification-anim-demo.gif "Example animation captured using LiceCap")
+![Example animation captured using LiceCap](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/notification-anim-demo.gif "Example animation captured using LiceCap"){: .blog-image }
 
 <span class="blog-image-caption">Example animation captured using LiceCap</span>
 

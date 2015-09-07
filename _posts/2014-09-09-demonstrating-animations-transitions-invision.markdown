@@ -17,7 +17,6 @@ Firstly, an additional piece of software is required to capture the animations a
 Initially, use LiceCap ([how to record with LiceCap demo here](http://www.cockos.com/licecap/how_to_licecap.gif) to capture an image showing the animation you would like to add to InVision for discussion.
 
 ![Example animation captured using LiceCap](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/notification-anim-demo.gif "Example animation captured using LiceCap"){: .blog-image }
-
 <span class="blog-image-caption">Example animation captured using LiceCap</span>
 
 Keep this image simple, if you have multiple animations, record them separately and upload as individual screens to avoid confusion around comments.
@@ -27,7 +26,6 @@ I’d also advise not demoing transition between screens using this method as an
 Once you have captured the animated image, simply upload to InVision as normal and add comments where required.
 
 ![Animation uploaded to InVision with an added comment](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/invision-anim-comment-2.png "[Animation uploaded to InVision with an added comment"){: .blog-image }
-
 <span class="blog-image-caption">Animation uploaded to InVision with an added comment</span>
 
 This allows a distributed team to make use of the features contained in InVision while allowing relevant animations and transitions to be viewed and commented on.

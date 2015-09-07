@@ -26,7 +26,7 @@ I’d also advise not demoing transition between screens using this method as an
 
 Once you have captured the animated image, simply upload to InVision as normal and add comments where required.
 
-![Animation uploaded to InVision with an added comment](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/invision-anim-comment-2.png "[Animation uploaded to InVision with an added comment")
+![Animation uploaded to InVision with an added comment](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/invision-anim-comment-2.png "[Animation uploaded to InVision with an added comment"){: .center-image }
 
 ###### _Animation uploaded to InVision with an added comment_
 

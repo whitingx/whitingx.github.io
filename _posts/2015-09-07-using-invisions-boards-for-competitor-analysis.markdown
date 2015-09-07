@@ -20,7 +20,7 @@ When designing systems and their associated processes I try to look at how other
 
 I set up a _Competitor Analysis Board_ within **InVision** to conduct an assessment of the relative strengths or weaknesses of similar, email focused products.
 
-![Competitor Analysis Board set up within InVision](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/invision-board-email-ca-01.png "Competitor Analysis Board set up within InVision")
+![Competitor Analysis Board set up within InVision](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/invision-board-email-ca-01.png "Competitor Analysis Board set up within InVision"){: .blog-image }
 
 This _Board_ lead with an explanation on how the team were using the _Board_ to make it easy for anyone viewing for the first time to understand what they were looking at.
 
@@ -32,11 +32,11 @@ Any relevant designs, images, ideas & inspiration could then be added to the _Bo
 
 An item with _none_ or a _single_ comment remained at the default size, once the item had received more than one comment, it's size was increased. This continued as more comments were added meaning that it was easy to see on viewing the page which items were generating the most discussion.
 
-![Competitor Analysis Board showing scaling based on comments](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/invision-board-email-ca-comments.png "Competitor Analysis Board showing scaling based on comments")
+![Competitor Analysis Board showing scaling based on comments](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/invision-board-email-ca-comments.png "Competitor Analysis Board showing scaling based on comments"){: .blog-image }
 
 To finish up this collaborative resource, I then made it clear on the _Board_ that all members of the remote team could add to the board any items they might want to discuss. We also used this _Board_ to pull out relevant colour ideas for systems we thought made good use of complementary colour schemes, or who displayed good contrast for call-to-action buttons.
 
-![Competitor Analysis Board showing colour swatch ideas](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/invision-board-email-ca-swatch.png "Competitor Analysis Board showing colour swatch ideas")
+![Competitor Analysis Board showing colour swatch ideas](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/invision-board-email-ca-swatch.png "Competitor Analysis Board showing colour swatch ideas"){: .blog-image }
 
 ### Conclusion
 

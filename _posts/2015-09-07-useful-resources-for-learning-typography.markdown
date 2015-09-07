@@ -3,7 +3,7 @@ published: true
 title: Useful Resources for Learning Typography
 layout: post
 tags: [typography]
-categories: [Typography, Resources]
+categories: [typography]
 ---
 A recent question on useful resources for learning typography had me digging through my old bookmarks to find the most useful. This post is just a useful future reference and a way to collect these resources together.
 

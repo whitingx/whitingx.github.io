@@ -1,6 +1,6 @@
 ---
 published: true
-title: Digital Hoarding: Community Comments
+title: Digital Hoarding—Community Comments
 layout: post
 tags: [Archiving, Blade Runner, Slack, Designer Hangout]
 ---

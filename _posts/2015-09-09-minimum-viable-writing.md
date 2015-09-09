@@ -6,7 +6,7 @@ tags: [writing, copy, technology]
 ---
 For quite a while now I've wanted to do more writing up of the work I'm doing and general thoughts I have on **UX**, **interface design**, **typography** & whatever else interests me at a given time.
 
-![Pen & Paper](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/writing.jpg "Pen & Paper")
+![Pen & Paper](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/writing.jpg "Pen & Paper"){: .blog-image }
 
 I've worked through quite a few systems including **Wordpress**, **Blogger**, **Textpattern** but not found a system I felt really fitted in with how I'd like to work. I find myself getting hung up on the design, or plugins for including feeds or ads.
 

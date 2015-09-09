@@ -3,7 +3,7 @@ published: true
 title: EU Consumer Rights Directive
 layout: post
 ---
-Having recently been doing some research around the **EU Consumer Rights Directive** - [http://ec.europa.eu/justice/consumer-marketing/rights-contracts/directive/] - this post collects together useful information for retailers based in Europe
+Having recently been doing some research around the **EU Consumer Rights Directive** - [http://ec.europa.eu/justice/consumer-marketing/rights-contracts/directive/](http://ec.europa.eu/justice/consumer-marketing/rights-contracts/directive/) - this post collects together useful information for retailers based in Europe
 
 ![Various EU Currency](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/euros-and-notes.jpg "Various EU Currency"){: .blog-image }
 <span class="blog-image-caption">Various EU Currency</span>

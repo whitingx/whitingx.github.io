@@ -93,7 +93,6 @@ html {
 .sidebar-nav-item {
   display: block;
   border-top: 1px solid rgba(242, 242, 242, 0.19);
-  padding: 5px 0 5px 25px;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {

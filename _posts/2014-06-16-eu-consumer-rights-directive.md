@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: EU Consumer Rights Directive
 layout: post
 ---

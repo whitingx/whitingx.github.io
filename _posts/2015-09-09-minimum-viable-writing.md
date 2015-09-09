@@ -10,7 +10,7 @@ For quite a while now I've wanted to do more writing up of the work I'm doing an
 
 I've worked through quite a few systems including **Wordpress**, **Blogger**, **Textpattern** but not found a system I felt really fitted in with how I'd like to work. I find myself getting hung up on the design, or plugins for including feeds or ads.
 
-### Minimum Viable ~~Product~~ Writing
+### Minimum Viable <s>Product</s> Writing
 
 The idea of creating a _Minimum Viable Product_ is one that resonates with me as a UI designer. Working from sketches through to a finished product via various stages of fidelity has proved to be a technique that works for me. It made sense then to try this approach with my writing.
 

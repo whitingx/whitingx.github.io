@@ -22,7 +22,7 @@ I set up a _Competitor Analysis Board_ within **InVision** to conduct an assessm
 
 ![Competitor Analysis Board set up within InVision](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/invision-board-email-ca-01.png "Competitor Analysis Board set up within InVision"){: .blog-image }
 
-This _Board_ lead with an explanation on how the team were using the _Board_ to make it easy for anyone viewing for the first time to understand what they were looking at.
+This _Board_ led with an explanation on how the team were using the _Board_ to make it easy for anyone viewing for the first time to understand what they were looking at.
 
 > set a visual hierarchy within the page based on the number of comments an item had received.
 

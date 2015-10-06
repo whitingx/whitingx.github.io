@@ -4,12 +4,12 @@ title: NUX4 – A Conference for Teams
 layout: post
 tags: [UX, NUX, conference, collaboration]
 ---
-The excellent `NUX4` conference takes place shortly in Manchester - http://2015.nuxconf.uk/.
+The excellent `NUX4` conference takes place shortly in Manchester - [http://2015.nuxconf.uk/](http://2015.nuxconf.uk/).
 
 One of the key aspects I try to get across when discussing UX with people is that it's not just _one_ role for a single (or team) of UX professionals in any organisation. One of the key aims in UX is bringing it in as part of wider business processes. As the [Government Digital Services Team](https://twitter.com/gdsteam) often point out, UX is a team sport.
 
 ![User Research is a Team Sport](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/gdsteam-sport.png "User Research is a Team Sport"){: .blog-image }
-<span class="blog-image-caption">User Research is a Team Sport via http://www.disambiguity.com/strategy-is-being-on-message/</span>
+<span class="blog-image-caption">User Research is a Team Sport via [http://www.disambiguity.com/strategy-is-being-on-message/](http://www.disambiguity.com/strategy-is-being-on-message/)</span>
 
 As part of this, it feels that events like `NUX4` really benefit when attended by people who don't class themselves as UX professionals. People who come from others areas of business who are looking to get an idea of how UX fits into these wider processes. More and more businesses are understanding that UX is not something that can be tacked on to the end of a project, instead it needs to be a foundation, underpinning all aspects of a project.
 

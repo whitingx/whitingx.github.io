@@ -18,8 +18,8 @@ But this doesn't allow for timestamps to be added. There are a few application a
 1. Download and install **xType** - [http://mac.softpedia.com/get/Utilities/Presto-app4mac.shtml](http://mac.softpedia.com/get/Utilities/Presto-app4mac.shtml) - `version 1.3.1` is the most up-to-date.
 2. Install and launch as usual, you will see a prompt to open the `Accessibility options` to allow **xType** to work but the required option is no longer located here.
 
-    ![OS X Accessibility Options](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/osx-a11y-options.png "OS X Accessibility Options")
-<span class="blog-image-caption">OS X Accessibility Options</span>
+    ![OS X Accessibility Settings](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/osx-a11y-settings.png "OS X Accessibility Settings")
+<span class="blog-image-caption">OS X Accessibility Settings</span>
 
 3. Navigate back to main `System Preference` and select the `‘Security & Privacy’` options.
 

@@ -4,7 +4,7 @@ title: Quick Timestamps for Usability Testing Notes
 layout: post
 tags: [UX, testing, process, productivity]
 ---
-Following on from the interesting talk by Christopher Bush ([https://twitter.com/suthen](https://twitter.com/suthen)) on Guerrilla usability testing ([http://northern-user-experience.org/2014/05/08/presentation-guerrilla-ux-testing](http://northern-user-experience.org/2014/05/08/presentation-guerrilla-ux-testing)) one aspect that I thought was a great idea was the use of text expansion to add a timestamp to observation notes (see slide `24` on the NUX page) to make them easier to cross-reference to recordings at a later date.
+Following on from the interesting talk by Christopher Bush ([https://twitter.com/suthen](https://twitter.com/suthen)) on Guerrilla usability testing ([http://nuxuk.org/2014/03/21/nux-leeds-24-april-guerrilla-testing/](http://nuxuk.org/2014/03/21/nux-leeds-24-april-guerrilla-testing/)) one aspect that I thought was a great idea was the use of text expansion to add a timestamp to observation notes (see slide `24` on the NUX page) to make them easier to cross-reference to recordings at a later date.
 
 Since `OS X Mountain Lion`, _Apple_ have included an in-built text expansion tool hidden away under the keyboard settings.
  

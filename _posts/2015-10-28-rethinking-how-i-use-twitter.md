@@ -6,7 +6,7 @@ tags: [twitter, links, wiki]
 ---
 Over time I've developed a method of using Twitter for two main purposes. One way is for social interactions, asking questions & responding to other people's. The second way has been as a link bookmarking service.
 
-![Twitter Typographic Wallpaper](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/typographic-twitter.jpg "Twitter Typographic Wallpaper")
+![Twitter Typographic Wallpaper](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/typographic-twitter.jpg "Twitter Typographic Wallpaper"){: .blog-image }
 <span class="blog-image-caption">Twitter Typographic Wallpaper via [https://flic.kr/p/69cP9q](https://flic.kr/p/69cP9q)</span>
 
 When I read an interesting link I'll Tweet it, with some associated hastags, via my personal account. These Tweets are then picked up by an IFTTT recipe which strips out the links & hashtags and adds them to a spreadsheet. This spreadsheet is then imported into my personal wiki meaning I have quick access to useful information in my main areas of interest (UX, Typography. Design, etc.).

@@ -281,7 +281,7 @@ a.sidebar-nav-item:focus {
     padding: 3px 15px;
     font-family: monospace;
     font-size: .8em;
-    float: left;
+    display: inline-flex;
     margin: 0 10px 0 0;
     border: 1px solid rgba(255, 0, 0, 0.26);
 }

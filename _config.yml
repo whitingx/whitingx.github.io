@@ -6,3 +6,5 @@ title: ElectronicPress
 tagline: User Experience Design & Research
 description: Information & links relating to User Experience (UX), design & typography from <a href="https://twitter.com/whitingx">Rob Whiting</a>
 paginate: 5
+gems:
+  - jekyll-seo-tag

@@ -25,11 +25,11 @@ Ensure the error message is visible in regard to message size, colour & location
 
 The final error message template, based off the above guidelines looked like this;
 
-***[What has happened in plain, jargon-free language]***
+```[What has happened in plain, jargon-free language]
 
-***[What the user can do to continue with their task]***
+[What the user can do to continue with their task]
 
-***[Who the user can contact (including named person, email address, phone number, etc. where applicable) for assistance]***
+[Who the user can contact (including named person, email address, phone number, etc. where applicable) for assistance]```
 
 ### Error Message Writing Resources
 

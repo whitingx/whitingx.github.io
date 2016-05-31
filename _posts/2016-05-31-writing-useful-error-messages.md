@@ -4,7 +4,7 @@ title: Writing Useful Error Messages. Resources and Ideas.
 layout: post
 tags: [ux, error messages]
 ---
-Writing useful error messages is tricky. Striking the right balance of presenting useful information to people while explaining what the error was and, more importantly, what they can do about it is not an easy thing to do, especially when looking to automate/template these type of interactions.
+Writing a useful error message is tricky. Striking the right balance of presenting useful information to people while explaining what the error was and, more importantly, what they can do about it is not an easy thing to do, especially when looking to automate/template these type of interactions.
 
 ![Windows 10 Error Message](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/bad-error-message.png "Windows 10 Error Message"){: .blog-image }
 <span class="blog-image-caption">Windows 10 Error Message - Please don't do this ツ</span>

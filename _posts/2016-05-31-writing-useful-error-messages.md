@@ -11,13 +11,13 @@ Writing useful error messages is tricky. Striking the right balance of presentin
 
 ### Try to Avoid Using Error Messages
 
-The ideal goal is to not _need_ to use error messages at all. Look instead to design a collaborative system, tell the user the requirements _before_ they do the work. If there are special ways you want user to enter content/data into a system tell the user _before_ they enter it, not afterwards.
+The ideal goal is to not _need_ to use error messages at all. Look instead to design what _Don Norman_ calls a 'collaborative' system, tell the user the requirements _before_ they do the work. If there are special ways you want user to enter content/data into a system tell the user _before_ they enter it, not afterwards.
 
 ### If You Do need to Display Error Messages
 
-Where Error Messages are used try to ensure they sound like they’ve been written for real people to understand and not a machine code style message.
+Where Error Messages are used try to ensure they sound like they’ve been written for real people to understand and not using incomprehensible, 'machine code' style message.
 
-Think of the error message as a conversation with a person. Make it polite, understandable, friendly & jargon-free. The goal is to write an actionable error message that anyone could understand.
+Think of the error message as a conversation with the person using the system. Make it polite, understandable, friendly & jargon-free. The goal is to write an actionable error message that anyone could understand.
 
 Ensure the error message is visible in regard to message size, colour & location. If the person can't _see_ the error message they will have trouble acting upon it. It needs to be specific as to what the problem is and help the user recover. Explain what they need to do next and how can they get back to what they were doing.
 

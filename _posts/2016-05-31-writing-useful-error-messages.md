@@ -23,7 +23,7 @@ Ensure the error message is visible in regard to message size, colour & location
 
 ### An Example Error Message
 
-The final error message template, based off the above guidelines looked like this;
+A useful error message template, based off the above guidelines looks like this;
 
 {% highlight linenos %}
 [What has happened in plain, jargon-free language]

@@ -269,11 +269,12 @@ a.sidebar-nav-item:focus {
 
 .tagged {
     border-left: 4px solid #ac4142;
+    background: rgba(172, 65, 66, 0.08);
 }
 
 .tagged p {
     float: left;
-    padding: 6px 12px 0 12px;
+    padding: 8px 6px 0 12px;
 }
 
 .tag {
@@ -285,6 +286,6 @@ a.sidebar-nav-item:focus {
     font-family: monospace;
     font-size: .8em;
     display: inline-flex;
-    margin: 0 10px 10px 0;
+    margin: 6px;
     border: 1px solid rgba(255, 0, 0, 0.26);
 }

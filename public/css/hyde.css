@@ -268,21 +268,18 @@ a.sidebar-nav-item:focus {
 }
 
 .tagged {
-    border-left: 4px solid #ac4142;
-    background: rgba(172, 65, 66, 0.08);
+    /*border-left: 4px solid #ac4142;
+    background: rgba(172, 65, 66, 0.08);*/
 }
 
 .tagged p {
-    float: left;
-    padding: 8px 6px 0 12px;
+    /*float: left;
+    padding: 8px 6px 0 12px;*/
 }
 
 .tag {
 	margin:0;
 	padding:0;
-	position:absolute;
-	right:24px;
-	bottom:-12px;
 	list-style:none;
 	}
 
@@ -308,7 +305,7 @@ a.sidebar-nav-item:focus {
     margin-left:20px;
 	 padding:0 10px 0 12px;
 	 background:#0089e0;
-	 color:#fff;
+	 color:#fff !important;
 	 text-decoration:none;
 	 -moz-border-radius-bottomright:4px;
 	 -webkit-border-bottom-right-radius:4px;

@@ -1,11 +1,11 @@
 ---
 published: true
-title: Useful Resources for Learning Typography
+title: Useful Resources for Learning Typography Theory
 layout: post
 tags: [typography]
 categories: [typography]
 ---
-A recent question on useful resources for learning typography had me digging through my old bookmarks to find the most useful. This post is just a useful future reference and a way to collect these resources together.
+A recent question on useful resources for learning typographic theory had me digging through my old bookmarks to find the most useful. This post is designed as a future reference and a way to collect these resources together.
 
 ### Butterick's Practical Typography
 

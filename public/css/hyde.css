@@ -257,7 +257,7 @@ a.sidebar-nav-item:focus {
  *
  * Specific styles added by RW.
  */
- 
+
 .blog-image {
   width: 100%;
 }
@@ -268,9 +268,12 @@ a.sidebar-nav-item:focus {
 }
 
 .tagged {
-    background: rgba(234, 208, 76, 0.17);
-    padding: 10px;
-    border: 1px solid rgba(205, 172, 50, 0.11);
+    border-left: 4px solid #ac4142;
+}
+
+.tagged p {
+    float: left;
+    padding: 6px 12px 0 12px;
 }
 
 .tag {

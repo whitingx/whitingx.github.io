@@ -33,7 +33,7 @@ Useful lessons and references regularly updated and maintained by _Adobe Typekit
 
 ### Thinking with Type
 
-[http://www.papress.com/other/thinkingwithtype/index.htm](http://www.papress.com/other/thinkingwithtype/index.htm)
+[http://www.thinkingwithtype.com/](http://www.thinkingwithtype.com/)
 
 ![Thinking with Type](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/thinking-with-type.png "Thinking with Type"){: .blog-image }
 

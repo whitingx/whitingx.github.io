@@ -277,6 +277,23 @@ a.sidebar-nav-item:focus {
     padding: 8px 6px 0 12px;
 }
 
+.tag {
+	margin:0;
+	padding:0;
+	position:absolute;
+	right:24px;
+	bottom:-12px;
+	list-style:none;
+	}
+
+  .tag li, .tag a {
+	float:left;
+	height:24px;
+	line-height:24px;
+	position:relative;
+	font-size:11px;
+	}
+
 .tag a {
     /*background: rgba(255, 0, 47, 0.11);
     text-align: center;
@@ -301,7 +318,7 @@ a.sidebar-nav-item:focus {
 	 border-top-right-radius:4px;
 }
 
-.tag a:before{
+.tag a:before {
 	 content:"";
 	 float:left;
 	 position:absolute;
@@ -314,7 +331,7 @@ a.sidebar-nav-item:focus {
 	 border-width:12px 12px 12px 0;
 	}
 
-  .tag a:after{
+  .tag a:after {
 	 content:"";
 	 position:absolute;
 	 top:10px;

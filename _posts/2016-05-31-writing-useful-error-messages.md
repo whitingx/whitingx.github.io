@@ -1,6 +1,6 @@
 ---
 published: true
-title: Writing Useful Error Messages. Resources and Ideas.
+title: Writing Useful Error Messages - Resources and Ideas
 layout: post
 tags: [ux, error messages]
 ---

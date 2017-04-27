@@ -23,7 +23,7 @@ This post is designed as a future reference and a way to collect these resources
 
 [Handprint—Color harmony & color design](http://www.handprint.com/HP/WCL/tech13.html)
 
-```In regard to these ^ two—Basically everything listed here - [http://www.handprint.com/LS/CVS/color.html)](http://www.handprint.com/LS/CVS/color.html) - is fairly useful ツ```
+In regard to these ^ two—Basically everything listed here - [http://www.handprint.com/LS/CVS/color.html)](http://www.handprint.com/LS/CVS/color.html) - is fairly useful ツ
 
 [How to Use Color in Design to Guide Your User](https://webdesignledger.com/how-to-use-color-in-design-to-guide-your-user/)
 

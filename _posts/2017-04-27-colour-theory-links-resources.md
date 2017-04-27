@@ -4,7 +4,7 @@ title: Colour Theory & Design Resources
 layout: post
 tags: [ui, colour, theory]
 ---
-A recent [UXDiscuss](http://uxdiscuss.com) event looking at the use of colour to enhance the users experience had me digging back through various resources I've gathered over time in relation to colour theory and UI design.
+A recent [UXDiscuss](http://uxdiscuss.com/use-colour-ux/) event looking at the use of colour to enhance the users experience had me digging back through various resources I've gathered over time in relation to colour theory and UI design.
 
 ![A Design Critique](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/colour-swatches.jpg "Colour Swatches"){: .blog-image }
 <span class="blog-image-caption">Colour Swatches</span>
@@ -23,7 +23,7 @@ This post is designed as a future reference and a way to collect these resources
 
 [Handprint—Color harmony & color design](http://www.handprint.com/HP/WCL/tech13.html)
 
-> In regard to these ^ two—Basically everything listed here - http://www.handprint.com/LS/CVS/color.html - is fairly useful ツ
+> In regard to these ^ two—Basically everything listed here - (http://www.handprint.com/LS/CVS/color.html) - is fairly useful ツ
 
 [How to Use Color in Design to Guide Your User](https://webdesignledger.com/how-to-use-color-in-design-to-guide-your-user/)
 

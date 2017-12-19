@@ -15,6 +15,8 @@ This post is designed as a future reference and a way to collect these resources
 
 ⦿ [Can text in different colors help you tackle the most difficult books?](http://mashable.com/2016/05/16/color-text-books/)
 
+⦿ [Canva 'Colors Design Wiki'—information about colors and their meanings](https://www.canva.com/colors/)
+
 ⦿ [Color Theory Course](http://www.digitaldesignacademy.com/color-theory)
 
 ⦿ [Everything About Color Contrast And Why You Should Rethink It](https://www.smashingmagazine.com/2014/10/color-contrast-tips-and-tools-for-accessibility/)

@@ -38,7 +38,7 @@ and available in various versions.
 
 And finally there is **Fillr** from PowerMockup
 
-[http://www.powermockup.com/resources/articles/fillr-wireframing-font](http://www.powermockup.com/resources/articles/fillr-wireframing-font)
+[https://www.powermockup.com/blog/fillr-wireframing-font](https://www.powermockup.com/blog/fillr-wireframing-font)
 
 > "... a free dummy font that replaces actual characters with squiggly lines (heavily inspired by BLOKK, which uses blocks instead). FILLR makes dummy content immediately identifiable without distracting anyone with fake Latin.
 

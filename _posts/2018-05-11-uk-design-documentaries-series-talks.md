@@ -4,9 +4,9 @@ title: UK Design Documentaries, Series & Talks
 layout: post
 tags: [design, documentaries]
 ---
-There are some great documentary films, and more recently series (https://www.netflix.com/gb/title/80057883) about Design. But 2 things I have noticed about these are that;
+There are some great documentary films, and more recently series ([https://www.netflix.com/gb/title/80057883](https://www.netflix.com/gb/title/80057883)) about Design. But 2 things I have noticed about these are that;
 
-1. The same Design related films tend to be promoted across different (http://www.designers.watch/) resources (https://www.uxseattle.org/movies/)
+1. The same Design related films tend to be promoted across different ([http://www.designers.watch/](http://www.designers.watch/)) resources ([https://www.uxseattle.org/movies/](https://www.uxseattle.org/movies/))
 2. These films tend to have a US focus, both in subject matter and creation.
 
 As such, I've been looking at films that look at the great Design history here in the UK, both at a general level on ones that focus on specific, British Designers.

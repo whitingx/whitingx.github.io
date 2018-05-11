@@ -9,7 +9,7 @@ There are some great documentary films, and more recently series ([https://www.n
 1. The same Design related films tend to be promoted across different ([http://www.designers.watch/](http://www.designers.watch/)) resources ([https://www.uxseattle.org/movies/](https://www.uxseattle.org/movies/))
 2. These films tend to have a US focus, both in subject matter and creation.
 
-As such, I've been looking at films that look at the great Design history here in the UK, both at a general level on ones that focus on specific, British Designers.
+As such, I've been looking at films that focus at the great Design history here in the UK, both at a general level and on ones that focus on specific, British Designers.
 
 ## 📽 UK Design Documentary Films
 

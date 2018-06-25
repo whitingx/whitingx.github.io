@@ -33,6 +33,8 @@ The letterpress I spoke of in my talk was the British made **Adana 8*x*5**
 
 [http://britishletterpress.co.uk/presses/small-presses/adana/the-adana-8-x-5/](http://britishletterpress.co.uk/presses/small-presses/adana/the-adana-8-x-5/)
 
+[Caslon - current home of the Adana letterpress](http://www.caslon.co.uk/html/_adana_letterpress___.html)
+
 ## Design Guidelines
 
 The 5 key design guidelines, which align with useful typographic guidelines were;

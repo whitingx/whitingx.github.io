@@ -25,7 +25,8 @@ This post acts as a round-up of useful typography resources & links from aspects
     1. [On-line](#furtherreadon)
     2. [Print](#furtherreadprint)
 
-## The Adana 8*x*5 <a name="adana"></a>
+<a name="adana"></a>
+## The Adana 8*x*5
 
 The letterpress I spoke of in my talk was the British made **Adana 8*x*5**
 

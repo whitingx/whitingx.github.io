@@ -11,7 +11,21 @@ I was recently given the opportunity to return to York to speak at the second Do
 
 This post acts as a round-up of useful typography resources & links from aspects mentioned during my talk.
 
-## The Adana 8*x*5
+## Table of Contents
+1. [The Adana Letterpress](#adana)
+2. [Design Guidelines](#desguide)
+    1. [Alignment](#desguideal)
+    2. [Repetition](#desguiderep)
+    3. [Contrast](#desguidecont)
+    4. [Proximity](#desguideprox)
+    5. [Balance](#desguidebal)
+3. [Vincent Connare](#vincon)
+4. [Creating Your Own Font](#createfont)
+5. [Further Reading](#furtherread)
+    1. [On-line](#furtherreadon)
+    2. [Print](#furtherreadprint)
+
+## The Adana 8*x*5 <a name="adana"></a>
 
 The letterpress I spoke of in my talk was the British made **Adana 8*x*5**
 
@@ -19,7 +33,7 @@ The letterpress I spoke of in my talk was the British made **Adana 8*x*5**
 
 [http://britishletterpress.co.uk/presses/small-presses/adana/the-adana-8-x-5/](http://britishletterpress.co.uk/presses/small-presses/adana/the-adana-8-x-5/)
 
-[http://www.caslon.co.uk/html/_adana_letterpress___.html](http://www.caslon.co.uk/html/_adana_letterpress___.html)
+[Caslon - current home of the Adana letterpress](http://www.caslon.co.uk/html/_adana_letterpress___.html)
 
 ## Design Guidelines
 

@@ -31,6 +31,7 @@ This post acts as a round-up of useful typography resources & links from aspects
 6. [In Conclusion](#conclusion)
 
 <a name="adana"></a>
+
 ## The Adana 8*x*5
 
 The letterpress I spoke of in my talk was the British made **Adana 8*x*5**
@@ -42,6 +43,7 @@ The letterpress I spoke of in my talk was the British made **Adana 8*x*5**
 [Caslon - current home of the Adana letterpress](http://www.caslon.co.uk/html/_adana_letterpress___.html)
 
 <a name="#desguide"></a>
+
 ## Design Guidelines
 
 The 5 key design guidelines, which align with useful typographic guidelines were;

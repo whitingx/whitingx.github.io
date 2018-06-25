@@ -232,7 +232,7 @@ Thank very much to all who attended my talk on *UX & Typography*
 
 It hopefully offered some useful tips that can be applied to general product design work.
 
-If you'd like to discuss more, or have any questions in this area, I can often be found discussin this topic on-line.
+If you'd like to discuss more, or have any questions in this area, I can often be found discussing this topic on-line.
 
 [https://twitter.com/search?q=typography+from%3Awhitingx](https://twitter.com/search?q=typography+from%3Awhitingx)
 

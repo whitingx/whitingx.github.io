@@ -11,7 +11,7 @@ I was recently given the opportunity to return to York to speak at the second Do
 
 This post acts as a round-up of useful typography resources & links from aspects mentioned during my talk.
 
-## Table of Contents
+# Table of Contents
 1. [The Adana Letterpress](#adana)
 2. [Design Guidelines](#desguide)
     1. [Alignment](#desguideal)

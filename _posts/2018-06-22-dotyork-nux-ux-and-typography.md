@@ -31,7 +31,6 @@ This post acts as a round-up of useful typography resources & links from aspects
 6. [In Conclusion](#conclusion)
 
 <a name="adana"></a>
-
 ## The Adana 8*x*5
 
 The letterpress I spoke of in my talk was the British made **Adana 8*x*5**
@@ -42,8 +41,7 @@ The letterpress I spoke of in my talk was the British made **Adana 8*x*5**
 
 [Caslon - current home of the Adana letterpress](http://www.caslon.co.uk/html/_adana_letterpress___.html)
 
-<a name="#desguide"></a>
-
+<a name="desguide"></a>
 ## Design Guidelines
 
 The 5 key design guidelines, which align with useful typographic guidelines were;
@@ -56,12 +54,12 @@ The 5 key design guidelines, which align with useful typographic guidelines were
 
 This article - [https://maddisondesigns.com/2009/03/the-5-basic-principles-of-design/](https://maddisondesigns.com/2009/03/the-5-basic-principles-of-design/) - offers a useful overview of these 5 Basic Principles Of Design.
 
-<a name="#desguideal"></a>
+<a name="desguideal"></a>
 ### Alignment
 
 The research completed by **Microsoft** I mentioned during the talk on how people read copy, and therefore interact with typography, online can be found here in their article *The Science of Word Recognition* - [https://docs.microsoft.com/en-us/typography/develop/word-recognition](https://docs.microsoft.com/en-us/typography/develop/word-recognition) 
 
-<a name="#desguidealline"></a>
+<a name="desguidealline"></a>
 #### Line Length
 
 Further information on defining an optimal line-length for your users can be found in these articles.
@@ -70,9 +68,9 @@ Further information on defining an optimal line-length for your users can be fou
 
 [https://designshack.net/articles/typography/the-importance-of-designing-for-readability/](https://designshack.net/articles/typography/the-importance-of-designing-for-readability/)
 
-<a name="#desguiderep"></a>
+<a name="desguiderep"></a>
 ### Repitition
-<a name="#desguidereppair"></a>
+<a name="desguidereppair"></a>
 #### Font Pairing
 
 A useful intro to combining fonts can be found here;
@@ -107,7 +105,7 @@ And in this area, **Fonts In Use** is a *really* useful site to look at real-wor
 
 [https://fontsinuse.com/](https://fontsinuse.com/)
 
-<a name="#desguidecont"></a>
+<a name="desguidecont"></a>
 ### Contrast
 
 The following online tool is really useful for quick checking of typographic contrast;
@@ -126,16 +124,16 @@ Information on the *Chrome* DevTools browser integration can be found here;
 
 [https://developers.google.com/web/updates/2018/01/devtools#contrast](https://developers.google.com/web/updates/2018/01/devtools#contrast)
 
-<a name="#desguideprox"></a>
+<a name="desguideprox"></a>
 ### Proximity
 
 The following resource offers a useful overview of proximity in regard to design with a specific focus on use in typography;
 
 [https://www.sitepoint.com/principles-of-design-proximity/](https://www.sitepoint.com/principles-of-design-proximity/)
 
-<a name="#desguidebal"></a>
+<a name="desguidebal"></a>
 ### Balance
-<a name="#desguidebalgrid"></a>
+<a name="desguidebalgrid"></a>
 #### Grid Systems
 
 There is *so* much written about the use of grid systems in design, and in particular how they apply to typography but this is a useful starting point for research;
@@ -146,7 +144,7 @@ The classic 📙 book ***Thinking With Type*** also offers some useful informati
 
 [http://thinkingwithtype.com/grid/](http://thinkingwithtype.com/grid/)
 
-<a name="#desguidebalbase"></a> 
+<a name="desguidebalbase"></a> 
 #### Baseline Grid
 
 In regard to the vertical rhythm of typography, look towards information like the following on baseline grids;
@@ -155,7 +153,7 @@ In regard to the vertical rhythm of typography, look towards information like th
 
 [https://builttoadapt.io/8-point-grid-vertical-rhythm-90d05ad95032](https://builttoadapt.io/8-point-grid-vertical-rhythm-90d05ad95032)
 
-<a name="#vincon"></a>
+<a name="vincon"></a>
 ### Vincent Connare
 
 Information on the Typographer & Designer *Vincent Connare* can be found here;
@@ -166,7 +164,7 @@ Information on the Typographer & Designer *Vincent Connare* can be found here;
 
 [https://twitter.com/VincentConnare](https://twitter.com/VincentConnare)
 
-<a name="#createfont"></a>
+<a name="createfont"></a>
 ### Creating Your Own Font
 
 There a loads of useful tools available to experiment with creating your own font of examining other people's.
@@ -191,9 +189,9 @@ And **Glyphs** is the middle-ground between these two options;
 
 [https://glyphsapp.com/](https://glyphsapp.com/)
 
-<a name="#furtherread"></a>
+<a name="furtherread"></a>
 ### Further Reading
-<a name="#furtherreadon"></a>
+<a name="furtherreadon"></a>
 #### On-line
 
 #### Butterick's Practical Typography
@@ -212,7 +210,7 @@ An excellent resource by _Matthew Butterick_ ([https://twitter.com/mbutterick](h
 
 A web–specific version of the excellent **Elements of Typographic Style** book maintained by _Richard Rutter_. Very useful overview and intro to the more in–depth and non web–specific original.
 
-<a name="#furtherreadprint"></a>
+<a name="furtherreadprint"></a>
 #### Print
 
 #### The Elements of Typographic Style

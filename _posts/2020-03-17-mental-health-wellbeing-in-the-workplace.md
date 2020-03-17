@@ -1,6 +1,6 @@
 ---
 published: true
-title: Mental Health & Wellbeing in the Workplace
+title: Mental Health & Wellbeing in Your Workplace, Wherever That Might Be
 layout: post
 tags: [MentalHealth, Wellbeing, TheBeatles]
 ---

@@ -2,7 +2,7 @@
 published: true
 title: Mental Health & Wellbeing in the Workplace
 layout: post
-tags: [MentalHealth, Wellbeing]
+tags: [MentalHealth, Wellbeing, TheBeatles]
 ---
 ![The Beatles - Help Sculpture on Wall](https://raw.githubusercontent.com/whitingx/whitingx.github.io/master/_posts/images/the_beatles_help_wall.jpg "The Beatles - Help Sculpture on Wall"){: .blog-image }
 <span class="blog-image-caption">The Beatles - Help Sculpture on Wall</span>
@@ -17,47 +17,47 @@ The resources listed have a focus on supporting mental health & wellbeing in the
 
 ### General Resources
 
-https://www.mentalhealthatwork.org.uk/
+[https://www.mentalhealthatwork.org.uk/](https://www.mentalhealthatwork.org.uk/)
 
 > “Whether you work with 10 people, 10,000 people or just yourself, paying attention to mental health in the workplace has never been more important. Mental Health at Work is here to help you find the information and resources you need.”
 
-https://osmihelp.org/
+[https://osmihelp.org/](https://osmihelp.org/)
 
 > “Open Sourcing Mental Illness is a non-profit  corporation dedicated to raising awareness, educating, and providing resources to support mental wellness in the tech and open source communities.”
 
 ### Resources for Freelancers & The Self Employed
 
-https://www.leapers.co/
+[https://www.leapers.co/](https://www.leapers.co/)
 
 > “Leapers supports the mental health of freelancers and the self-employed”
 
 ### Conferences & MeetUp Resources
 
-http://mhprompt.org
+[http://mhprompt.org](http://mhprompt.org)
 
 > “Prompt is a means of encouraging a conversation about mental health at tech conferences and meetups.”
 
 ### Charities, Public Sector & NHS Resources
 
-https://www.mindwell-leeds.org.uk/professionals/mindwell-at-work
+[https://www.mindwell-leeds.org.uk/professionals/mindwell-at-work](https://www.mindwell-leeds.org.uk/professionals/mindwell-at-work)
 
 > “MindWell is the mental health website for people in Leeds. Funded by the NHS Leeds Clinical Commissioning Group, it brings together information from the NHS, Leeds City Council and the third sector into one single 'go to' place.”
 
-https://www.mentalhealth.org.uk/publications/how-support-mental-health-work
+[https://www.mentalhealth.org.uk/publications/how-support-mental-health-work](https://www.mentalhealth.org.uk/publications/how-support-mental-health-work)
 
 > “After reading this guide you should: have an idea of how to manage your own mental health at work; have an idea of how to reach out to a colleague in distress; have an idea how you can work with others to make your workplace more mentally healthy for everyone.”
 
-https://www.mind.org.uk/workplace/
+[https://www.mind.org.uk/workplace/](https://www.mind.org.uk/workplace/)
 
 > “Whether you're an employee worried about your own or a colleague's mental health, a company looking for a charity partner, or an HR professional interested in improving mental wellbeing in your organisation - we're here to help.”
 
-https://www.samaritans.org/how-we-can-help/workplace/
+[https://www.samaritans.org/how-we-can-help/workplace/](https://www.samaritans.org/how-we-can-help/workplace/)
 
 > “We support workplaces with a range of programmes including our Wellbeing in the Workplace elearning tool and our in-house and open workplace training courses.”
 
 ### Technology & Hardware Resources
 
-https://www.moodbeam.co.uk/moodbeam-for-business
+[https://www.moodbeam.co.uk/moodbeam-for-business](https://www.moodbeam.co.uk/moodbeam-for-business)
 
 > “Over the last two years we’ve built up the most incredible relationships with organisations who really care about pioneering better mental health within their industries.  Moodbeam’s technology has allowed them to see where they can make a real difference to the lives of those who rely on them to make the right decision.”
 

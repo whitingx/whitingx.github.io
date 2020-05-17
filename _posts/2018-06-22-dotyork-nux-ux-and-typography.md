@@ -83,7 +83,7 @@ These are some great example sites showing font pairing in action;
 
 [https://www.typewolf.com/](https://www.typewolf.com/)
 
-[http://hellohappy.org/beautiful-web-type/](http://hellohappy.org/beautiful-web-type/)
+[https://beautifulwebtype.com](https://beautifulwebtype.com)
 
 [http://typespiration.com/](http://typespiration.com/)
 

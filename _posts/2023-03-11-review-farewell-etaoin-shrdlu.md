@@ -18,9 +18,10 @@ I found ‘Farewell, Etaoin Shrdlu’ a really interesting short film with a lot
 
 ## Watch the Film:
 
-https://vimeo.com/127605643
+https://vimeo.com/127605643 
 
 ## Related Links:
 
-https://www.imdb.com/title/tt2238777/
-https://archive.nytimes.com/www.nytimes.com/times-insider/2014/11/13/1978-farewell-etaoin-shrdlu/
+https://www.imdb.com/title/tt2238777/ 
+
+https://archive.nytimes.com/www.nytimes.com/times-insider/2014/11/13/1978-farewell-etaoin-shrdlu/ 

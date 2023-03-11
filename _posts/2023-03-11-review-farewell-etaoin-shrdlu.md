@@ -4,7 +4,7 @@ title: Review - ‘Farewell, Etaoin Shrdlu’ (1978)
 layout: post
 tags: [Printing, Documentary]
 ---
-⭐️⭐️⭐️⭐️⭐️
+★★★★☆
 
 After having this on my watchlist for a while, I recently found time to watch the difficult to pronounce, but fascinating to view, ‘Farewell, Etaoin Shrdlu’ a 1978 documentary on the last days of Linotype printing at the New York Times.
 

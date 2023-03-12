@@ -8,7 +8,7 @@ tags: [Printing, Documentary]
 
 After having this on my watchlist for a while, I recently found time to watch the difficult to pronounce, but fascinating to view, ‘Farewell, Etaoin Shrdlu’ a 1978 documentary on the last days of Linotype printing at the New York Times.
 
-As the design industry makes moves towards AI-driven design processes, it was interesting to reflect on how people in a similar situation—as hot metal type transitioned to computer based layout and printing considered and adapted to these changes.
+As the design industry makes moves towards AI-driven design processes, it was interesting to reflect on how people in a similar situation—as hot metal type transitioned to computer based layout and printing—considered and adapted to these changes.
 
 The prediction of the Print Professional at the `14m:23s` mark could as easily be applied today to digital designers or artists looking at the output from AI art and design tools like DALL·E and Stable Diffusion. 
 

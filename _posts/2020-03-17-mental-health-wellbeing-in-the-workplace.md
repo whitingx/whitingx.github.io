@@ -57,7 +57,7 @@ The resources listed have a focus on supporting mental health & wellbeing in the
 
 ### Technology & Hardware Resources
 
-[https://www.moodbeam.co.uk/moodbeam-for-business](https://www.moodbeam.co.uk/moodbeam-for-business)
+[https://www.moodbeam.co.uk/](https://www.moodbeam.co.uk/)
 
 > “Over the last two years we’ve built up the most incredible relationships with organisations who really care about pioneering better mental health within their industries.  Moodbeam’s technology has allowed them to see where they can make a real difference to the lives of those who rely on them to make the right decision.”
 

@@ -2,7 +2,7 @@
 published: true
 title: Day 2—The Beatles - A Day in my Life.
 layout: post
-tags: [NaBloPoMo, Writing, TheBeatles]
+tags: [TheBeatles]
 ---
 > I know it's true,
 > 

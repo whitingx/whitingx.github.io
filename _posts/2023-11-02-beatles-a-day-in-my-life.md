@@ -1,6 +1,6 @@
 ---
 published: true
-title: Day 2—The Beatles - A Day in my Life.
+title: The Beatles - A Day in my Life.
 layout: post
 tags: [TheBeatles]
 ---
